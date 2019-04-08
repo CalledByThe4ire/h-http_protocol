@@ -1,0 +1,2 @@
+POST /session/new HTTP/1.1
+HOST: hexlet.local
