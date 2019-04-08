@@ -1,0 +1,11 @@
+GET /about HTTP/1.0
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Connection: close
+Content-Type: text/html; charset=utf-8
+Content-Length: 12
+ETag: W/"c-r0WEeVxJ7IpMIG20rN7HX9ndB4c"
+Date: Mon, 08 Apr 2019 08:33:36 GMT
+
+You've done!Connection closed by foreign host.
